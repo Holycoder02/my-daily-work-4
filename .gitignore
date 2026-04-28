@@ -14,8 +14,6 @@ env/
 .env
 .env.*
 
-# Logs
-*.log
 
 # Dataset files
 *.csv
